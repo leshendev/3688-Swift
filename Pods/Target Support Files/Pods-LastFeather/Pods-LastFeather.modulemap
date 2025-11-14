@@ -1,0 +1,6 @@
+framework module Pods_LastFeather {
+  umbrella header "Pods-LastFeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
